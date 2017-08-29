@@ -8,7 +8,7 @@ Yemek sepeti interview android application.
 
 # Screenshots
 
-<img src="https://github.com/farukyavuz/yemek-sepeti-interview-android/blob/master/screenshot/ss1.png"/>
+<img src="https://github.com/farukyavuz/yemek-sepeti-interview-android/blob/master/screenshot/ss1.png" />
 <img src="https://github.com/farukyavuz/yemek-sepeti-interview-android/blob/master/screenshot/ss2.png"/>
 <img src="https://github.com/farukyavuz/yemek-sepeti-interview-android/blob/master/screenshot/ss3.png"/>
 <img src="https://github.com/farukyavuz/yemek-sepeti-interview-android/blob/master/screenshot/ss4.png"/>
