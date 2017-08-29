@@ -6,13 +6,15 @@ Yemek sepeti interview android application.
 
 **[Download](https://github.com/farukyavuz/yemek-sepeti-interview-android/raw/master/apk/app-debug.apk)**
 
-# Screenshots
-
-<img src="https://github.com/farukyavuz/yemek-sepeti-interview-android/blob/master/screenshot/ss1.png" />
-<img src="https://github.com/farukyavuz/yemek-sepeti-interview-android/blob/master/screenshot/ss2.png"/>
-<img src="https://github.com/farukyavuz/yemek-sepeti-interview-android/blob/master/screenshot/ss3.png"/>
-<img src="https://github.com/farukyavuz/yemek-sepeti-interview-android/blob/master/screenshot/ss4.png"/>
-<img src="https://github.com/farukyavuz/yemek-sepeti-interview-android/blob/master/screenshot/ss5.png"/>
+****
+## Screenshot
+![ss1](https://github.com/farukyavuz/yemek-sepeti-interview-android/blob/master/screenshot/ss1.png)
+![ss2](https://github.com/farukyavuz/yemek-sepeti-interview-android/blob/master/screenshot/ss2.png)
+******
+![ss3](https://github.com/farukyavuz/yemek-sepeti-interview-android/blob/master/screenshot/ss3.png)
+![ss4](https://github.com/farukyavuz/yemek-sepeti-interview-android/blob/master/screenshot/ss4.png)
+******
+![ss4](https://github.com/farukyavuz/yemek-sepeti-interview-android/blob/master/screenshot/ss5.png)
 
 # Libraries
 
