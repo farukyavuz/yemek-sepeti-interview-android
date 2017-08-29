@@ -45,6 +45,7 @@
         <item name="contentPaddingLeft">8dp</item>
         <item name="contentPaddingRight">8dp</item>
         <item name="cardBackgroundColor">@color/white</item>
+        <item name="cardUseCompatPadding">true</item>
     </style>
 
 
